@@ -1,7 +1,16 @@
 #!/usr/bin/env python3
 
-"Full code showcasing mapping of the singular controller. Forward and Inverse kinematics features are shown below. "
-"This was made and finalised June 8th 2026 by Sitor Sla with assistence of Anthropic's Claude and OpenAI's ChatGPT. "
+"""
+Author: Sitor Sla
+Reviewed by: Dion van Santen, Fardien Azizi
+Created: 02 June 2026
+
+Script used to add forward and inverse kinematic functionality to the chosen controller. 
+The default mapping is based on the dualshock ps4 controller, if any other controllers are used the mapping must be reviewed.
+The ROS topics and services must be edited to correspond with the user's application.
+
+AI contributon: LLM were used in the development of this script. All outputs were thotoughly reviewed before implementation.
+"""
 
 import time
 import numpy as np
