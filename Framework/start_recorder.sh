@@ -1,5 +1,12 @@
 #!/bin/bash
+"""
+Author: Chistiaan Peppelman
+Updated: 08-06-2026
 
+This bash script is used to start the whole application by connecting the user to the robot and start both the data pipeline and the controller scripts.
+
+Use of AI: LLM were used to assist the author in writing this script.
+"""
 source /opt/ros/noetic/setup.bash
 
 if [ -f ~/catkin_ws/devel/setup.bash ]; then
