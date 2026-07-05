@@ -5,8 +5,11 @@ Welcome to the official repository for the research project **"Single-Controller
 
 This project introduces an integrated framework for efficient, teleoperated multimodal data collection using a single handheld controller (PlayStation DualShock 4). The system enables a single operator to execute tasks, record streams, filter out low-quality inputs, and automatically export structured data into machine-learning-ready formats.
 
+---
+## Framework Schematic
 
-<img width="2048" height="1536" alt="Robot task 4 2026-06-12 at 10 26 25" src="https://github.com/user-attachments/assets/5ed093ca-85c4-4ee2-b1d7-b66f1e7fd62f" />
+<img width="1997" height="949" alt="datapipeline_schematic drawio" src="https://github.com/user-attachments/assets/156829c6-6d1f-49ce-8b57-99ba0c81c7e2" />
+
 ---
 
 ## Hardware Setup & Specifications
@@ -27,6 +30,8 @@ The framework is fully integrated and validated on a specialized mobile manipula
   * Connected via Bluetooth to orchestrate the base navigation, arm adjustments, and data collection routines from a single hardware interface.
   * link: https://www.playstation.com/nl-nl/accessories/dualshock-4-wireless-controller/
 
+
+<img width="2048" height="1536" alt="Robot task 4 2026-06-12 at 10 26 25" src="https://github.com/user-attachments/assets/5ed093ca-85c4-4ee2-b1d7-b66f1e7fd62f" />
 ---
 
 ## Demonstration Videos
