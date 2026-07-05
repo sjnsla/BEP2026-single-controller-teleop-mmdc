@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 
+"""
+Author: Christiaan Peppelman
+Reviewed by: Fardien Azizi
+Created: 12 may 2026
+
+[]. The outputs of each session will be stored in a seperate session folder.
+
+AI contribution: LLM were used in development of this algorith. All outputs were thoroughly reviewd before implementation.
+"""
+
 import os
 import glob
 import json
