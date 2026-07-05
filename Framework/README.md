@@ -16,4 +16,4 @@ Step 4: Create a folder named lab_data_recorder at the location where you want t
 
 Step 5: Run the automated bash command: ~/lab_data_recorder/start_recorder.sh
 
-Make sure that the right ROS topics are being recorded for your specific application.
+Make sure that the right ROS topics are being recorded for your specific application. This can be changed in the python files itself.
