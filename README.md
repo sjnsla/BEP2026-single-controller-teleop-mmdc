@@ -42,7 +42,7 @@ The videos directory in this repository contains recorded demonstrations validat
 
 The framework addresses the challenges of fragmented teleoperation interfaces and heavy post-processing manual workflows through:
 1. **Unified Teleoperation:** Full omnidirectional control of the Dingo-O base and joint/Cartesian movement of the Kinova arm using a single controller, eliminating the need to switch input devices.
-2. **Automated ROS Pipeline:** A lightweight ROS Noetic stack running on Ubuntu 20.04 that records wheel encoders, joint states, end-effector positions, and raw RGB-D imagery into a unified, system-clock-timestamped rosbag via SSH.
+2. **Automated ROS Pipeline:** A lightweight ROS Noetic stack running on Ubuntu 20.04 that records wheel encoders, joint states, end-effector positions, and raw RGB-D imagery from a realsense D455 camera into a unified, system-clock-timestamped rosbag via SSH.
 3. **Visual Quality Filtering:** An automated script using OpenCV to apply a Laplacian filter for blur detection and a grayscale mean filter for brightness check, discarding corrupted frames.
 4. **Temporal Synchronization:** Computationally efficient linear interpolation that aligns heterogeneous sensor frequencies using the camera feed as the primary temporal reference.
 5. **Learning-Ready Storage:** Direct conversion of processed trajectories into chunked Zarr arrays, organizing images, joint states, and actions into structures optimized for Python-based deep learning pipelines.
