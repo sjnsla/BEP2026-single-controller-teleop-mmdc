@@ -56,29 +56,27 @@ The framework addresses the challenges of fragmented teleoperation interfaces an
 
 ## Authors
 
-This project was conducted at the Dept. of Cognitive Robotics, TU Delft, and the RoPeRt Group, University of Zaragoza[cite: 1].
+* **Fardien Azizi** *¹
+* **Sitor Sla** *¹
+* **Christiaan Peppelman** *¹
+* **Dion van Santen** *¹
+* **Andrei-Carlo Papuc** ¹
+* **Khaled Mustafa** ¹
+* **Diego Martinez-Baselga** ¹,²
+* **Javier Alonso-Mora** ¹
 
-* **Fardien Azizi***[cite: 1]
-* **Sitor Sla***[cite: 1]
-* **Christiaan Peppelman***[cite: 1]
-* **Dion van Santen***[cite: 1]
-* **Andrei-Carlo Papuc**[cite: 1]
-* **Khaled Mustafa**[cite: 1]
-* **Diego Martinez-Baselga**[cite: 1]
-* **Javier Alonso-Mora**[cite: 1]
+*\*Denotes equal contribution.*
 
-*\*Denotes equal contribution*[cite: 1].
+¹ The authors are with the Dept. of Cognitive Robotics, TU Delft, 2628 CD Delft, The Netherlands.
+² The authors are with RoPeRt Group, DIIS-I3A, University of Zaragoza, 50018 Zaragoza, Spain.
 
 ---
 
 ## Acknowledgements
 
-This work was supported by the following grants and institutions:
+This work was supported by grant PID2022-139615OB-I00 funded by MICIU/AEI/10.13039/501100011033 and ERDF/EU, from the Aragon Government/FSE-T45_23R, and by the Dutch Research Council NWO-NWA, within the "Acting under uncertainty" (ACT) project (Grant No. NWA. 1292.19.298), and by the Office of Naval Research Global (ONRG) under Grant N62909-25-12027 (Project SECURE). 
 
-* Grant PID2022-139615OB-I00 funded by MICIU/AEI/10.13039/501100011033 and ERDF/EU[cite: 1].
-* The Aragon Government/FSE-T45_23R[cite: 1].
-* The Dutch Research Council NWO-NWA, within the "Acting under uncertainty" (ACT) project (Grant No. NWA. 1292.19.298)[cite: 1].
-* The Office of Naval Research Global (ONRG) under Grant N62909-25-12027 (Project SECURE)[cite: 1].
+Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
 
 ---
 
